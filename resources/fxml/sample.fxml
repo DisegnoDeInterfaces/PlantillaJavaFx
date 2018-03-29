@@ -6,15 +6,14 @@
 
 <GridPane fx:controller="sample.Controller"
           xmlns:fx="http://javafx.com/fxml"
-          style="-fx-font-family: Papyrus; -fx-alignment:center; -fx-hgap:10; -fx-vgap:10">
-
+          stylesheets="/css/sample.css">
 
 
         <Text text="JavaFx"
               GridPane.rowIndex="0"
               GridPane.columnSpan="2"
               GridPane.halignment="CENTER"
-                style="-fx-font-size: 80px; -fx-fill: AQUA"/>
+              styleClass="titulo"/>
 
 
         <Label text="Nombre:"

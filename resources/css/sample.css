@@ -1,0 +1,26 @@
+.root{
+    -fx-font-family: Papyrus;
+    -fx-alignment:center;
+    -fx-hgap:10;
+    -fx-vgap:10;
+}
+
+/* selector clase */
+.titulo{
+    -fx-font-size: 80px;
+    -fx-fill: AQUA;
+
+}
+
+/* selector nodo*/
+.text-field{
+     -fx-font-family: Helvetica;
+
+}
+
+/*selector id*/
+#nombre{
+    -fx-background-color:yellow;
+    -fx-font-family: Impact;
+
+}
