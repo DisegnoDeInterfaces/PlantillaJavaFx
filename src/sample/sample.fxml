@@ -6,7 +6,7 @@
 
 <GridPane fx:controller="sample.Controller"
           xmlns:fx="http://javafx.com/fxml"
-          style="-fx-font-family: Papyrus; fx-alignment:center; fx-hgap:10; fx-vgap:10">
+          style="-fx-font-family: Papyrus; -fx-alignment:center; -fx-hgap:10; -fx-vgap:10">
 
 
 
